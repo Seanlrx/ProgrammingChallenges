@@ -14,12 +14,12 @@ Use `filename` as the header for the additional column.
 
 ## To run csv_combiner.py
 ```
-$ ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
+$ python ./csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
 
 ## To run csv_combiner_test.py
 ```
-$ ./csv-combiner_test.py 
+$ python ./csv_combiner_test.py 
 ```
 
 ## Example
