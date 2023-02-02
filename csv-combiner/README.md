@@ -6,8 +6,10 @@ rows from each of the inputs along with an additional column that has the
 filename from which the row came (only the file's basename, not the entire path).
 Use `filename` as the header for the additional column.
 
-## Language and Third-party Library
+## Language
 * Python 3.10.9
+
+## Third-Party Library Dependencies
 * Pandas
 
 ## To run csv_combiner.py
